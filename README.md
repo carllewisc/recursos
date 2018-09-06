@@ -15,3 +15,8 @@ Recursos onlines para consultar cualquier información relacionada al desarrollo
 Aprende Flexbox jugando a defender
 
 * [Flexbox Defense](http://www.flexboxdefense.com)
+
+
+Cursos Platzi
+
+* [React Native](https://mega.nz/#F!5y4zEa6K!UdsNjtEMEl5ciMj67L4TQg)

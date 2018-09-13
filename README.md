@@ -1,4 +1,4 @@
-﻿# recursos
+﻿# Recursos
 Recursos onlines para consultar cualquier información relacionada al desarrollo web y movil.
 
 
@@ -26,3 +26,8 @@ Udemy - Diseño Web. Prof. Carlos Arturo, el mismo autor del canal FalconMasters
 HTML5, CSS3, JavaScript, jQuery, WordPress
 
 * [Curso MEGA](https://mega.nz/#F!g3ggFZzT!7GrUcsJnLO-RpQlA43apCw)
+
+
+Udemy - Master en JavaScript - Victor Robles
+
+* [Curso MEGA](https://mega.nz/#F!bx83yaAI!R11lch-Lb1I85zPK_9k0Xg)
